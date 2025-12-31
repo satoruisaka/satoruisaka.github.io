@@ -1,21 +1,3 @@
----
-title: "Satoru Isaka, Ph.D. – Profile"
-author: "Satoru Isaka"
-tags: [machine autonomy, robotics, developmental autonomous behavior, taxonomy, robot identifier, epistemology]
-updated: 2025-12-31
-layout: modular
-agentic_profile: true
-summary: "Agent-aware academic profile of Satoru Isaka, focused on machine autonomy, taxonomic robot identifier, and developmental autonomous behavior of machines."
-video:
-  url: "SatoruIsakaPresentationMP4.mp4"
-  title: "video image of Satoru Isaka presenting at an academic conference"
-  duration: "2:15"
-  autoplay: true
-  muted: true
-  loop: true
-  playsinline: true
----
-
 # Satoru Isaka, Ph.D.
 
 ![Satoru Isaka](SatoruIsakaSuperbloom120.jpg)
