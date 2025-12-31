@@ -1,0 +1,39 @@
+{
+  "@context": "https://schema.org",
+  "@type": "CreativeWork",
+  "name": "Satoru Isaka, Ph.D. – Agentic Profile",
+  "author": {
+    "@type": "Person",
+    "name": "Satoru Isaka",
+    "url": "https://satoruisaka.github.io"
+  },
+  "url": "https://satoruisaka.github.io/satoru-isaka.md",
+  "encodingFormat": "text/markdown+frontmatter",
+  "dateModified": "2025-12-31",
+  "keywords": [
+    "machine autonomy",
+    "robotics",
+    "developmental behavior",
+    "taxonomy",
+    "epistemology"
+  ],
+  "agenticProfile": true,
+  "modularLayout": true,
+  "summary": "Agent-aware academic profile of Satoru Isaka, focused on machine autonomy, taxonomic robot identifier, and developmental autonomous behavior.",
+  "hasPart": [
+    {
+      "@type": "VideoObject",
+      "name": "Satoru Isaka presenting at an academic conference",
+      "contentUrl": "https://https://satoruisaka.github.io/SatoruIsakaPresentationMP4.mp4",
+      "duration": "PT2M15S"
+    }
+  ],
+  "mainEntity": [
+    { "@type": "WebPageElement", "name": "My Research Focus", "url": "#research-focus" },
+    { "@type": "WebPageElement", "name": "My Publications on Machine Autonomy", "url": "#publications" },
+    { "@type": "WebPageElement", "name": "Github Repo", "url": "#github-repo" },
+    { "@type": "WebPageElement", "name": "Biography", "url": "#biography" },
+    { "@type": "WebPageElement", "name": "Links", "url": "#links" },
+    { "@type": "WebPageElement", "name": "Contact", "url": "#contact" }
+  ]
+}
